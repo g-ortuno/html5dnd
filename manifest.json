@@ -1,0 +1,20 @@
+{
+    "name": "HTML5 DnD PWA",
+    "icons": [
+        {
+            "src": "/html5dnd/img/logo-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/html5dnd/img/logo-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/html5dnd/",
+    "background_color": "#f2f2f2",
+    "display": "standalone",
+    "scope": "/html5dnd/",
+    "theme_color": "#ffffff"
+}
